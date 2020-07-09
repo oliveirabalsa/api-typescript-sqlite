@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/oliveirabalsa/api-typescript-sqlite#readme",
   "dependencies": {
+    "@types/cors": "^2.8.6",
     "@types/express": "^4.17.7",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",
     "sqlite3": "^5.0.0"
